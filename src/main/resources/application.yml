@@ -1,0 +1,6 @@
+server:
+  error:
+    include-binding-errors: never
+    
+    
+   
